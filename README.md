@@ -12,6 +12,6 @@ It can also be installed by
 ## UI of the app
 
 
-<img src="https://github.com/AVKavan/WeatherApp-Flutter/assets/107805278/8d8b95f3-c56a-4e5d-86df-42e8e7d15d00" width="300" height="500" />
+<img src="https://github.com/AVKavan/WeatherApp-Flutter/assets/107805278/8d8b95f3-c56a-4e5d-86df-42e8e7d15d00" width="300" height="450" />
 
-![ui 1](/images/weatherScreen-1.jpg)
+
