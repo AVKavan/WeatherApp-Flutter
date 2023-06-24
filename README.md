@@ -10,6 +10,8 @@ It can also be installed by
  - Then run it on Android Studio or Vscode using `flutter run` to simulate it on the connected device.
 
 ## UI of the app
-![weatherScreen-1](https://github.com/AVKavan/WeatherApp-Flutter/assets/107805278/8d8b95f3-c56a-4e5d-86df-42e8e7d15d00 = 100x20)
+
+
+<img src="[http://....jpg](https://github.com/AVKavan/WeatherApp-Flutter/assets/107805278/8d8b95f3-c56a-4e5d-86df-42e8e7d15d00)https://github.com/AVKavan/WeatherApp-Flutter/assets/107805278/8d8b95f3-c56a-4e5d-86df-42e8e7d15d00" width="200" height="200" />
 
 ![ui 1](/images/weatherScreen-1.jpg)
