@@ -1,16 +1,12 @@
-# weather
+# Know Your Weather
 
-A new Flutter project.
+An App which gives weather information about the current location and as well as other desired locations.
 
-## Getting Started
+## Installation steps
 
-This project is a starting point for a Flutter application.
+Download the app to your device using this link [Know Your Weather](https://weather-app-81dc6.firebaseapp.com/)
+It can also be installed by
+ - Downloading this repository to you local repo.
+ - Then run it on Android Studio or Vscode using `flutter run` to simulate it on the connected device.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## UI of the app
