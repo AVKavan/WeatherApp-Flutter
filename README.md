@@ -10,4 +10,4 @@ It can also be installed by
  - Then run it on Android Studio or Vscode using `flutter run` to simulate it on the connected device.
 
 ## UI of the app
-(/images/weatherScreen-1.jpg)
+![ui 1](/images/weatherScreen-1.jpg)
